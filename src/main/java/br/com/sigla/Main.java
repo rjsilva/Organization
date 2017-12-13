@@ -13,4 +13,9 @@ public class Main {
 		System.out.println(result);
 	}
 
+	public static void subtrair(int number1, int number2) {
+		double result = number1 - number2;
+		
+		System.out.println(result);
+	}
 }
