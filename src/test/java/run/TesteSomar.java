@@ -12,5 +12,10 @@ public class TesteSomar {
 	public void somar() {
 		main.somar(2, 4);
 	}
+	
+	@Test
+	public void subtrair() {
+		main.subtrair(2, 4);
+	}
 
 }
