@@ -1,4 +1,4 @@
-package br.com.sigla.model;
+package br.com.sigla.model.ronaldo;
 
 public class HelloWorld {
 	
